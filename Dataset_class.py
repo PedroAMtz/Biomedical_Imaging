@@ -50,7 +50,7 @@ class Dataset(Dataset):
 # look for current directory
 
 #os.getcwd()
-
+# The directories are going to be different in your case c:
 csv_file = 'metadata.csv'
 directory = 'C:\\Users\\*\\OneDrive\\Escritorio\\Kaggle_MLandAI\\Brain_Tumor_Dataset'
 img_dir_Tumor = 'C:\\Users\\*\\OneDrive\\Escritorio\\Kaggle_MLandAI\\Brain_Tumor_Dataset\\Brain Tumor Data Set\\Brain Tumor Data Set\\Brain Tumor' 
